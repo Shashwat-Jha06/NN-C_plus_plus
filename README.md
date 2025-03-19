@@ -61,4 +61,4 @@ The XOR problem involves these input-output pairs:
 
 ## Acknowledgments
 
-This project is inspired by the original work of Sorawit Chokphantavee and Sirawit Chokphantavee. We express our sincere gratitude for their foundational implementation and detailed explanations that made this adaptation possible.
+This project is based on the original repo of Sorawit Chokphantavee and Sirawit Chokphantavee
